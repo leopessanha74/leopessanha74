@@ -13,6 +13,7 @@ Current technologies:
 - Spring Framework
 
 Past Experience:
+- Scientific Research
 - Teaching: Computer Science Principles & Game Development
 - Scientific Data Processing & Scientific Data Visualization (with open source and proprietary softwares)
 
