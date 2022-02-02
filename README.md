@@ -14,13 +14,13 @@ Current technologies:
 
 Past Experience:
 - Scientific Research
-- Teaching: Computer Science Principles & Game Development
+- Teaching: Computer Science & Game Development Principles
 - Scientific Data Processing & Scientific Data Visualization (with open source and proprietary softwares)
 
 Currently studying:
-- Unit Testing
-- Cloud Computing
+- Unit Testing ( JUnit 5 )
 - CI/CD (Jenkins)
+- Cloud Computing
 
 Contact:
 - leonardopessanha74@gmail.com
