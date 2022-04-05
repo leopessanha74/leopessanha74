@@ -1,16 +1,16 @@
-Hi, I’m @leopessanha74, software engineer and computer science student.
+Hi, I’m @leopessanha74, a Java Back-end software developer and computer science student.
 
 Current work:
-- Development and maintenance of Java RESTful APIs using Hibernate and JAX-RS
-- Design and maintenance of SQL Server databases
-- Agile software development + Git version control
+- Development and maintenance of Java RESTful APIs using JPA/Hibernate and JAX-RS
+- Design and maintenance of SQL Server relational databases
+- Agile software development(SCRUM) + Git for version control
 
 Current technologies:
 - JavaEE
 - JPA
 - Hibernate
 - SQL Server
-- Spring Framework
+- SpringBoot
 
 Past Experience:
 - Scientific Research
@@ -20,7 +20,7 @@ Past Experience:
 Currently studying:
 - Unit Testing ( JUnit 5 )
 - CI/CD (Jenkins)
-- Cloud Computing
+- Cloud Computing(AWS)
 
 Contact:
 - leonardopessanha74@gmail.com
